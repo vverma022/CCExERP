@@ -14,6 +14,7 @@
     "@repo/ui": "*",
     "next": "^15.2.1",
     "react": "^19.0.0",
+    "react-day-picker": "9.6.3",
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
